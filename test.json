@@ -1,0 +1,79 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "",
+      "email_feedback_and_report": "",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "AIzaSyCbehD6DCeDZHaGl8SUWKh1koTiHwKcvKY",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "admob",
+      "admob_banner_unit_id": "ca-app-pub-5370853025858401/4896458013",
+      "admob_interstitial_unit_id": "ca-app-pub-5370853025858401/4862413395",
+      "admob_native_unit_id": "ca-app-pub-5370853025858401/9765641316",
+      "admob_app_open_unit_id": "ca-app-pub-5370853025858401/8506144934",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "510178564436203_510179504436109",
+      "fan_interstitial_unit_id": "510178564436203_533088575478535",
+      "fan_native_unit_id": "510178564436203_533088658811860",
+      "startapp_app_id": "0",
+      "unity_game_id": "4725055",
+      "unity_banner_placement_id": "Banner_Android",
+      "unity_interstitial_placement_id": "Interstitial_Android",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "85460dcd",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 3,
+      "native_ad_index": 1,
+      "native_ad_interval": 8,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+    "posts": [
+      {
+        "id": 0,
+        "category": "MOD Melon",
+        "title": "MOD SKibidy",
+        "image": "https://raw.githubusercontent.com/plusnexus8/melondoang/main/test.json",
+        "description": "xxxxx",
+        "content": "yyyyy.",
+	"download": "zzzzz."
+      } 
+    ]
+  }
